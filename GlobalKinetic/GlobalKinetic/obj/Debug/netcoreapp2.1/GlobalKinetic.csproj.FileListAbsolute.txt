@@ -1,0 +1,15 @@
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\bin\Debug\netcoreapp2.1\GlobalKinetic.deps.json
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\bin\Debug\netcoreapp2.1\GlobalKinetic.runtimeconfig.json
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\bin\Debug\netcoreapp2.1\GlobalKinetic.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\bin\Debug\netcoreapp2.1\GlobalKinetic.dll
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\bin\Debug\netcoreapp2.1\GlobalKinetic.pdb
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\obj\Debug\netcoreapp2.1\GlobalKinetic.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\obj\Debug\netcoreapp2.1\GlobalKinetic.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\obj\Debug\netcoreapp2.1\GlobalKinetic.AssemblyInfo.cs
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\obj\Debug\netcoreapp2.1\GlobalKinetic.dll
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\obj\Debug\netcoreapp2.1\GlobalKinetic.pdb
+C:\Users\Dev\Desktop\GlobalKinetic\GlobalKinetic\obj\Debug\netcoreapp2.1\GlobalKinetic.csprojAssemblyReference.cache
